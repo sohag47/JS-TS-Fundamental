@@ -1,0 +1,26 @@
+{
+  "name": "js-ts-fundamental",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch ./index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohag47/JS-TS-Fundamental.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohag47/JS-TS-Fundamental/issues"
+  },
+  "homepage": "https://github.com/sohag47/JS-TS-Fundamental#readme",
+  "devDependencies": {
+    "tsx": "^4.23.5"
+  }
+}
