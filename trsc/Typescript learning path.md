@@ -25,7 +25,7 @@ If you're already comfortable writing JS, skip straight to Stage 2.
 - [x] Function typing: parameters, return types, optional/default params
 - [x] Function Overloading
 - [x] Union types (`|`) and literal types
-- [ ] Enums
+- [x] Enums
 
 **Practice:** Rewrite small JS scripts you've already written (a calculator, a to-do list, a fetch wrapper) in TypeScript.
 
