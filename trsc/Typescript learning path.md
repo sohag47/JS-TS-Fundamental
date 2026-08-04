@@ -24,7 +24,7 @@ If you're already comfortable writing JS, skip straight to Stage 2.
 - [x] Interfaces vs type aliases (`interface` vs `type`)
 - [x] Function typing: parameters, return types, optional/default params
 - [x] Function Overloading
-- [ ] Union types (`|`) and literal types
+- [x] Union types (`|`) and literal types
 - [ ] Enums
 
 **Practice:** Rewrite small JS scripts you've already written (a calculator, a to-do list, a fetch wrapper) in TypeScript.
