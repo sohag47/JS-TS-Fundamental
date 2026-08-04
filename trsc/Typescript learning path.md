@@ -21,8 +21,8 @@ If you're already comfortable writing JS, skip straight to Stage 2.
 - [x] Basic types: `string`, `number`, `boolean`, `array`, `tuple`
 - [x] `any`, `unknown`, `never`, `void`
 - [x] Type inference vs explicit typing
-- [ ] Interfaces vs type aliases (`interface` vs `type`)
-- [ ] Function typing: parameters, return types, optional/default params
+- [x] Interfaces vs type aliases (`interface` vs `type`)
+- [x] Function typing: parameters, return types, optional/default params
 - [ ] Union types (`|`) and literal types
 - [ ] Enums
 
