@@ -23,6 +23,7 @@ If you're already comfortable writing JS, skip straight to Stage 2.
 - [x] Type inference vs explicit typing
 - [x] Interfaces vs type aliases (`interface` vs `type`)
 - [x] Function typing: parameters, return types, optional/default params
+- [x] Function Overloading
 - [ ] Union types (`|`) and literal types
 - [ ] Enums
 
