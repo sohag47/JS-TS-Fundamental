@@ -33,9 +33,9 @@ If you're already comfortable writing JS, skip straight to Stage 2.
 
 ## Stage 3: Intermediate Concepts (2–3 weeks)
 
-- [ ] Interfaces vs classes, implementing interfaces
-- [ ] Classes: access modifiers (`public`/`private`/`protected`), inheritance, abstract classes
-- [ ] Generics — this is the big one, spend real time here
+- [x] Interfaces vs classes, implementing interfaces
+- [x] Classes: access modifiers (`public`/`private`/`protected`), inheritance, abstract classes
+- [x] Generics — this is the big one, spend real time here
 - [ ] Type narrowing (`typeof`, `instanceof`, custom type guards)
 - [ ] `readonly`, optional properties (`?`)
 - [ ] Intersection types (`&`)
