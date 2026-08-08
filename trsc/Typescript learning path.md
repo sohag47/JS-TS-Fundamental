@@ -37,8 +37,8 @@ If you're already comfortable writing JS, skip straight to Stage 2.
 - [x] Classes: access modifiers (`public`/`private`/`protected`), inheritance, abstract classes
 - [x] Generics — this is the big one, spend real time here
 - [x] Type narrowing (`typeof`, `instanceof`, custom type guards)
-- [ ] `readonly`, optional properties (`?`)
-- [ ] Intersection types (`&`)
+- [x] `readonly`, optional properties (`?`)
+- [x] Intersection types (`&`)
 - [ ] Utility types: `Partial`, `Pick`, `Omit`, `Record`, `Required`
 
 **Practice:** Build a small typed API client, or a generic data structure (Stack, Queue) using generics.
