@@ -36,7 +36,7 @@ If you're already comfortable writing JS, skip straight to Stage 2.
 - [x] Interfaces vs classes, implementing interfaces
 - [x] Classes: access modifiers (`public`/`private`/`protected`), inheritance, abstract classes
 - [x] Generics — this is the big one, spend real time here
-- [ ] Type narrowing (`typeof`, `instanceof`, custom type guards)
+- [x] Type narrowing (`typeof`, `instanceof`, custom type guards)
 - [ ] `readonly`, optional properties (`?`)
 - [ ] Intersection types (`&`)
 - [ ] Utility types: `Partial`, `Pick`, `Omit`, `Record`, `Required`
