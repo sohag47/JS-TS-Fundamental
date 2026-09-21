@@ -3,5 +3,8 @@
         "typescript": "npx tsx"
     },
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "eslint.bulkSuppression.enable": true
+    "eslint.bulkSuppression.enable": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
 }
